@@ -1,0 +1,18 @@
+/home/yngtodd/clion-2017.2.3/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/yngtodd/PrinciplesPracticeCPP/chapter4/iteration
+-- The C compiler identification is GNU 4.8.5
+-- The CXX compiler identification is GNU 4.8.5
+-- Check for working C compiler: /home/yngtodd/anaconda3/bin/cc
+-- Check for working C compiler: /home/yngtodd/anaconda3/bin/cc -- works
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Check for working CXX compiler: /home/yngtodd/anaconda3/bin/c++
+-- Check for working CXX compiler: /home/yngtodd/anaconda3/bin/c++ -- works
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/yngtodd/PrinciplesPracticeCPP/chapter4/iteration/cmake-build-debug

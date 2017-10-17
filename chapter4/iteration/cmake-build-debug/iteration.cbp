@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="iteration"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/yngtodd/PrinciplesPracticeCPP/chapter4/iteration/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/yngtodd/PrinciplesPracticeCPP/chapter4/iteration/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/yngtodd/PrinciplesPracticeCPP/chapter4/iteration/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/yngtodd/PrinciplesPracticeCPP/chapter4/iteration/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/yngtodd/PrinciplesPracticeCPP/chapter4/iteration/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/yngtodd/PrinciplesPracticeCPP/chapter4/iteration/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/yngtodd/PrinciplesPracticeCPP/chapter4/iteration/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/yngtodd/PrinciplesPracticeCPP/chapter4/iteration/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/yngtodd/PrinciplesPracticeCPP/chapter4/iteration/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/yngtodd/PrinciplesPracticeCPP/chapter4/iteration/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/yngtodd/PrinciplesPracticeCPP/chapter4/iteration/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/yngtodd/PrinciplesPracticeCPP/chapter4/iteration/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/yngtodd/PrinciplesPracticeCPP/chapter4/iteration/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/yngtodd/PrinciplesPracticeCPP/chapter4/iteration/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/yngtodd/PrinciplesPracticeCPP/chapter4/iteration/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="iteration">
+				<Option output="/home/yngtodd/PrinciplesPracticeCPP/chapter4/iteration/cmake-build-debug/iteration" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/yngtodd/PrinciplesPracticeCPP/chapter4/iteration/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/home/yngtodd/anaconda3/bin/../lib/gcc/x86_64-unknown-linux-gnu/4.8.5/include"/>
+					<Add directory="/home/yngtodd/anaconda3/bin/../lib/gcc/x86_64-unknown-linux-gnu/4.8.5/include-fixed"/>
+					<Add directory="/home/yngtodd/anaconda3/bin/../lib/gcc/../../gcc/include/c++"/>
+					<Add directory="/home/yngtodd/anaconda3/bin/../lib/gcc/../../gcc/include/c++/x86_64-unknown-linux-gnu"/>
+					<Add directory="/home/yngtodd/anaconda3/bin/../lib/gcc/../../gcc/include/c++/backward"/>
+					<Add directory="/home/yngtodd/anaconda3/bin/../lib/gcc/../../include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/yngtodd/PrinciplesPracticeCPP/chapter4/iteration/cmake-build-debug/Makefile&quot;  VERBOSE=1 iteration"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/yngtodd/PrinciplesPracticeCPP/chapter4/iteration/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/yngtodd/PrinciplesPracticeCPP/chapter4/iteration/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/yngtodd/PrinciplesPracticeCPP/chapter4/iteration/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="iteration/fast">
+				<Option output="/home/yngtodd/PrinciplesPracticeCPP/chapter4/iteration/cmake-build-debug/iteration" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/yngtodd/PrinciplesPracticeCPP/chapter4/iteration/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/home/yngtodd/anaconda3/bin/../lib/gcc/x86_64-unknown-linux-gnu/4.8.5/include"/>
+					<Add directory="/home/yngtodd/anaconda3/bin/../lib/gcc/x86_64-unknown-linux-gnu/4.8.5/include-fixed"/>
+					<Add directory="/home/yngtodd/anaconda3/bin/../lib/gcc/../../gcc/include/c++"/>
+					<Add directory="/home/yngtodd/anaconda3/bin/../lib/gcc/../../gcc/include/c++/x86_64-unknown-linux-gnu"/>
+					<Add directory="/home/yngtodd/anaconda3/bin/../lib/gcc/../../gcc/include/c++/backward"/>
+					<Add directory="/home/yngtodd/anaconda3/bin/../lib/gcc/../../include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/yngtodd/PrinciplesPracticeCPP/chapter4/iteration/cmake-build-debug/Makefile&quot;  VERBOSE=1 iteration/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/yngtodd/PrinciplesPracticeCPP/chapter4/iteration/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/yngtodd/PrinciplesPracticeCPP/chapter4/iteration/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/yngtodd/PrinciplesPracticeCPP/chapter4/iteration/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/yngtodd/PrinciplesPracticeCPP/chapter4/iteration/iteration.cpp">
+			<Option target="iteration"/>
+		</Unit>
+		<Unit filename="/home/yngtodd/PrinciplesPracticeCPP/chapter4/iteration/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
